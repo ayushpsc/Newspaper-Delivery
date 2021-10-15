@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/pdfbox-2.0.19"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: javax.mail:mail:1.5.0-b01"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: javax.activation:activation:1.1"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/fontbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/pdfbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/pdfbox-debugger-2.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/pdfbox-tools-2.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/preflight-2.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/xmpbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/barcodes-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/barcodes-7.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/barcodes-7.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/font-asian-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/forms-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/forms-7.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/forms-7.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/hyph-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/io-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/io-7.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/io-7.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/kernel-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/kernel-7.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/kernel-7.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/layout-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/layout-7.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/layout-7.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/pdfa-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/pdfa-7.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/pdfa-7.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/pdftest-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/pdftest-7.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/pdftest-7.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/sign-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/sign-7.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/sign-7.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/styled-xml-parser-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/styled-xml-parser-7.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/styled-xml-parser-7.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/svg-7.1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/svg-7.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/iText7-Core-7.1.11/svg-7.1.11-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Users/ayush/Documents/jars/deploy.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
